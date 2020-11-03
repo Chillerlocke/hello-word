@@ -2,5 +2,5 @@
 mein zweites Repository 
 
 Ich bin Chillerlocke und jeder kann das nutzen
-Ja, wirklich jeder :-)
 WOW!
+OK - Änderungen machen keine neue Version
