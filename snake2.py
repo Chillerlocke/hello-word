@@ -1,1 +1,2 @@
 print("snake")
+print ("kai")
